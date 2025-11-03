@@ -1,0 +1,5 @@
+{
+  "name": "Student Attendance System",
+  "description": "A modern, responsive web application for tracking student attendance. It features a login screen and a main dashboard to mark students as present, absent, or late.",
+  "requestFramePermissions": []
+}
